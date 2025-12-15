@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "星間飛行",
+  "base_artist": "ランカ・リー＝中島愛",
+  "createdAt": "2025-12-15T15:43:34.018461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seikan Eve (Seikan Hikou Christmas ver.) [星間イヴ(星間飛行 christmas ver.)]",
+      "artist": "Ranka Lee=Megumi Nakajima",
+      "has_synced": false,
+      "path": "select/01_Seikan_Eve_(Seikan_Hikou_Christmas_ver.)_[星間イヴ(星間飛行_christmas_ver.)]_Ranka_Lee=Megumi_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seikan Hikou (LIVE in Alcatraz) [星間飛行 (LIVE in アルカトラズ)]",
+      "artist": "Ranka Lee=Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/02_Seikan_Hikou_(LIVE_in_Alcatraz)_[星間飛行_(LIVE_in_アルカトラズ)]_Ranka_Lee=Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星間飛行(「マクロスFrontier」より)",
+      "artist": "ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ",
+      "has_synced": false,
+      "path": "select/03_星間飛行(「マクロスFrontier」より)_ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Seikan Hikou [星間飛行]",
+      "artist": "Ranka Lee=Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/04_Seikan_Hikou_[星間飛行]_Ranka_Lee=Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seikan Hikou [星間飛行]",
+      "artist": "Ranka Lee=Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/05_Seikan_Hikou_[星間飛行]_Ranka_Lee=Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星間飛行",
+      "artist": "Mitsuko Horie",
+      "has_synced": true,
+      "path": "select/06_星間飛行_Mitsuko_Horie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星間飛行 [ORT]",
+      "artist": "Horie, Mitsuko",
+      "has_synced": true,
+      "path": "select/07_星間飛行_[ORT]_Horie,_Mitsuko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星間飛行～Freyja Ver.～",
+      "artist": "ワルキューレ/(フレイアΔ鈴木みのり)",
+      "has_synced": true,
+      "path": "select/08_星間飛行~Freyja_Ver.~_ワルキューレ_(フレイアΔ鈴木みのり).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星間飛行",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/09_星間飛行_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星間飛行",
+      "artist": "中川翔子",
+      "has_synced": false,
+      "path": "select/10_星間飛行_中川翔子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "星間飛行 ~Freyja Ver.~",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/11_星間飛行_~Freyja_Ver.~_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "星間飛行 〜Freyja Ver.〜",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/12_星間飛行_〜Freyja_Ver.〜_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "星間飛行 ～Freyja Ver.～",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": true,
+      "path": "select/13_星間飛行_~Freyja_Ver.~_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "星間飛行～Freyja Ver.～",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/14_星間飛行~Freyja_Ver.~_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "星間飛行",
+      "artist": "Shoko Nakagawa",
+      "has_synced": false,
+      "path": "select/15_星間飛行_Shoko_Nakagawa.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "星間飛行 (LIVE in アルカトラズ)",
+      "artist": "ランカ・リー=中島愛, シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/16_星間飛行_(LIVE_in_アルカトラズ)_ランカ・リー=中島愛,_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "星間飛行",
+      "artist": "Nakagawa, Shoko",
+      "has_synced": true,
+      "path": "select/17_星間飛行_Nakagawa,_Shoko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星間飛行",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_01_星間飛行_ランカ・リー=中島愛.txt"
+    }
+  ]
+}
